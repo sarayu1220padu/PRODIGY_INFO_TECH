@@ -9,11 +9,11 @@ This repository is a comprehensive collection of the tasks and projects I comple
 
 - [Introduction](#introduction)
 - [Tasks Overview](#tasks-overview)
-  - [Task 01: WORLD_BANK_ANALYSIS📊](#Task-01-WORLD_BANK_ANALYSIS-)
-  - [Task 02: TITANIC_SURVIVAL_PREDICTION 🚢](#Task-02-TITANIC_SURVIVAL_PREDICTION-)
-  - [Task 03: BANK_MARKETING_ANALYSIS🔍💼](#Task-03-BANK_MARKETING_ANALYSIS-)
-  - [Task 04: TWITTER_SENTIMENT_ANALYSIS💬](#Task-04-TWITTER_SENTIMENT_ANALYSIS-)
-  - [Task 05: US_ACCIDENTS_ANALYSIS 🚧](#Task-05-US_ACCIDENTS_ANALYSIS-)
+  - [TASK 01: WORLD_BANK_ANALYSIS📊](#Task-01-WORLD_BANK_ANALYSIS-)
+  - [TASK 02: TITANIC_SURVIVAL_PREDICTION 🚢](#Task-02-TITANIC_SURVIVAL_PREDICTION-)
+  - [TASK 03: BANK_MARKETING_ANALYSIS🔍💼](#Task-03-BANK_MARKETING_ANALYSIS-)
+  - [TASK 04: TWITTER_SENTIMENT_ANALYSIS💬](#Task-04-TWITTER_SENTIMENT_ANALYSIS-)
+  - [TASK 05: US_ACCIDENTS_ANALYSIS 🚧](#Task-05-US_ACCIDENTS_ANALYSIS-)
 - [Thanking Prodigy InfoTech](#Thanking-Prodigy-InfoTech)
 
 ---
