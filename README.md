@@ -11,10 +11,10 @@ This repository is a comprehensive collection of the tasks and projects I comple
 - [Tasks Overview](#tasks-overview)
   - [Task 01: WORLD_BANK_ANALYSIS📊](#Task-01-WORLD_BANK_ANALYSIS-)
   - [Task 02: TITANIC_SURVIVAL_PREDICTION 🚢](#Task-02-TITANIC_SURVIVAL_PREDICTION-)
-  - [Task 03: BANK_MARKETING_ANALYSIS](#Task-03-BANK_MARKETING_ANALYSIS-)
+  - [Task 03: BANK_MARKETING_ANALYSIS🔍💼](#Task-03-BANK_MARKETING_ANALYSIS-)
   - [Task 04: TWITTER_SENTIMENT_ANALYSIS💬](#Task-04-TWITTER_SENTIMENT_ANALYSIS-)
   - [Task 05: US_ACCIDENTS_ANALYSIS 🚧](#Task-05-US_ACCIDENTS_ANALYSIS-)
-- [Thanking Prodigy InfoTech](#Thanking Prodigy InfoTech)
+- [Thanking Prodigy InfoTech](#Thanking-Prodigy-InfoTech)
 
 ---
 
@@ -26,53 +26,53 @@ During my internship at **Prodigy InfoTech**, I completed a variety of tasks des
 
 ## 📈 Tasks Overview
 
-### ✅ Task 01: Bar Chart or Histogram 📊
+### ✅ TASK 01:  WORLD_BANK_ANALYSIS 📊
 
 - **Description:**  
   Created visualizations to represent distributions of categorical or continuous variables, such as age or gender distribution.
 
 - **Tools Used:** Python, Google Colab, Matplotlib, Seaborn  
-- **Folder:** `Task-01_BarChart_Histogram`
+- **Folder:** `Task-01_WORLD_BANK_ANALYSIS`
 
 ---
 
-### ✅ Task 02: EDA on Titanic Dataset 🚢
+### ✅ TASK 02: TITANIC_SURVIVAL_PREDICTION 🚢
 
 - **Description:**  
   Performed data cleaning and exploratory data analysis on the Titanic dataset. Identified patterns related to survival, age, and class.
 
 - **Tools Used:** Python, Pandas, Seaborn, Matplotlib  
-- **Folder:** `Task-02_Titanic_EDA`
+- **Folder:** `Task-02_TITANIC_SURVIVAL_PREDICTION`
 
 ---
 
-### ✅ Task 03: Decision Tree Classifier 🌳
+### ✅ TASK 03: BANK_MARKETING_ANALYSIS 🔍💼
 
 - **Description:**  
   Built a Decision Tree Classifier to predict customer purchase behavior using demographic and behavioral features. The model was trained on the Bank Marketing dataset from UCI.
 
 - **Tools Used:** Python, Scikit-learn, Pandas, Google Colab  
-- **Folder:** `Task-03_DecisionTree_Classifier`
+- **Folder:** `Task-03_BANK_MARKETING_ANALYSIS`
 
 ---
 
-### ✅ Task 04: Sentiment Analysis on Social Media Data 💬
+### ✅ TASK 04: TWITTER_SENTIMENT_ANALYSIS 💬
 
 - **Description:**  
   Analyzed sentiment patterns in Twitter data to understand public opinion and attitudes toward specific topics or brands using basic NLP techniques.
 
 - **Tools Used:** Python, Pandas, Matplotlib, Seaborn, NLP libraries  
-- **Folder:** `Task-04_SentimentAnalysis_SocialMedia`
+- **Folder:** `Task-04_ TWITTER_SENTIMENT_ANALYSIS`
 
 ---
 
-### ✅ Task 05: Traffic Accident Analysis 🚧
+### ✅ TASK 05: US_ACCIDENTS_ANALYSIS🚧
 
 - **Description:**  
   Explored traffic accident datasets to uncover patterns related to weather, road conditions, and time. Visualized accident hotspots and contributing factors.
 
 - **Tools Used:** Python, Seaborn, Matplotlib, Google Colab  
-- **Folder:** `Task-05_TrafficAccident_Analysis`
+- **Folder:** `Task-05_US_ACCIDENTS_ANALYSIS`
 
 ---
 
