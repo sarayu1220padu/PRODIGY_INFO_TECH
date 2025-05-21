@@ -9,12 +9,12 @@ This repository is a comprehensive collection of the tasks and projects I comple
 
 - [Introduction](#introduction)
 - [Tasks Overview](#tasks-overview)
-  - [Task 01: Bar Chart or Histogram 📊](#task-01-bar-chart-or-histogram-)
-  - [Task 02: EDA on Titanic Dataset 🚢](#task-02-eda-on-titanic-dataset-)
-  - [Task 03: Decision Tree Classifier 🌳](#task-03-decision-tree-classifier-)
-  - [Task 04: Sentiment Analysis on Social Media Data 💬](#task-04-sentiment-analysis-on-social-media-data-)
-  - [Task 05: Traffic Accident Analysis 🚧](#task-05-traffic-accident-analysis-)
-- [Acknowledgment](#acknowledgment)
+  - [Task 01: WORLD_BANK_ANALYSIS📊](#Task-01-WORLD_BANK_ANALYSIS-)
+  - [Task 02: TITANIC_SURVIVAL_PREDICTION 🚢](#Task-02-TITANIC_SURVIVAL_PREDICTION-)
+  - [Task 03: BANK_MARKETING_ANALYSIS](#Task-03-BANK_MARKETING_ANALYSIS-)
+  - [Task 04: TWITTER_SENTIMENT_ANALYSIS💬](#Task-04-TWITTER_SENTIMENT_ANALYSIS-)
+  - [Task 05: US_ACCIDENTS_ANALYSIS 🚧](#Task-05-US_ACCIDENTS_ANALYSIS-)
+- [Thanking Prodigy InfoTech](#Thanking Prodigy InfoTech)
 
 ---
 
@@ -76,9 +76,9 @@ During my internship at **Prodigy InfoTech**, I completed a variety of tasks des
 
 ---
 
-## 🙏 Acknowledgment
+## 🙏 Thanking Prodigy InfoTech
 
-I would like to express my heartfelt gratitude to the team at **Prodigy InfoTech** for giving me this opportunity. The internship allowed me to gain valuable practical experience, sharpen my analytical thinking, and apply data science techniques to meaningful problems. Thank you for the support and mentorship throughout this journey!
+I would like to extend my sincere thanks and gratitude to the entire **Prodigy InfoTech** team for providing me with this incredible opportunity to be a part of their internship program. The experience gained during this internship has been invaluable, and I am grateful for the guidance, mentorship, and support I received from **Prodigy InfoTech's team**. **Prodigy InfoTech** has not only deepened my technical expertise in Python programming but also given me exposure to real-world projects and a collaborative work environment, which will undoubtedly benefit my future career. Once again, thank you to **Prodigy InfoTech** for this fantastic internship experience!
 
 ---
 
